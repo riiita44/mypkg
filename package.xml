@@ -19,5 +19,5 @@
   <exec_depend>launch_ros</exec_depend>    <!-- 追加 -->
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
-
+  <exec_depend>person_msgs</exec_depend> 
 </package>
